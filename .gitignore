@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven build
+target/
+
+# Generated reports and backups
+reports/
+*.bak
+
+# Secrets and local configuration
+.env
+.env.*
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
